@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Dashboard/Home Page.md"
+    },
+    {
       "basename": "2024-03-21",
       "path": "Calendar/Notes/2024-03-21.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "Board.excalidraw",
       "path": "Atlas/MOCs/Board.excalidraw.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Dashboard/Home Page.md"
     },
     {
       "basename": "PUC Minas - Specialization in Software Engineering",
