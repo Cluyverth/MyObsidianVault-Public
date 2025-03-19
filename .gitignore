@@ -2,6 +2,7 @@
 Atlas/**/*
 Calendar/**/*
 Dashboard/**/*
+.obsidian/**/*
 
 # Permitir diretórios para que possam ser incluídos depois
 !*/
