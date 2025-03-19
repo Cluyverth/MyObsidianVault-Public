@@ -1,0 +1,18 @@
+{
+  "accentColor": "#fca23b",
+  "textFontFamily": "Fira Code",
+  "interfaceFontFamily": "",
+  "translucency": false,
+  "baseFontSize": 18,
+  "cssTheme": "Shiba Inu",
+  "enabledCssSnippets": [
+    "custom-background",
+    "custom-rainbow-colors",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "extended-colorschemes",
+    "floating-search-bar"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}
