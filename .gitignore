@@ -1,0 +1,28 @@
+# Ignorar tudo por padrão
+Atlas/**/*
+Calendar/**/*
+Dashboard/**/*
+
+# Permitir diretórios para que possam ser incluídos depois
+!*/
+
+# Exceto a pasta .obsidian e arquivos de configurações relevantes
+!.obsidian/
+!.obsidian/community-plugins.json
+!.obsidian/appearance.json
+!.obsidian/plugins/**
+
+# Exceto a pasta Settings e seu conteúdo
+!Settings/
+!Settings/**
+
+# Permitir as pastas Templates e Backgrounds dentro de Settings
+!Settings/Templates/
+!Settings/Backgrounds/
+
+# Permitir arquivos dentro de Templates e Backgrounds
+!Settings/Templates/**/*
+!Settings/Backgrounds/**/*
+
+# Permitir pastas vazias usando arquivos .gitkeep
+!**/.gitkeep
