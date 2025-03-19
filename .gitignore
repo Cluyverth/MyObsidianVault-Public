@@ -24,6 +24,7 @@ Dashboard/**/*
 # Permitir arquivos dentro de Templates e Backgrounds
 !Settings/Templates/**/*
 !Settings/Backgrounds/**/*
+!Dashboard/**/*
 
 # Permitir pastas vazias usando arquivos .gitkeep
 !**/.gitkeep
