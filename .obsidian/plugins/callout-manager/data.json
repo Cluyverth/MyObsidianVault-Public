@@ -1,0 +1,93 @@
+{
+  "callouts": {
+    "custom": [
+      "treeofknowledge",
+      "lifedata",
+      "tasksmanager",
+      "Tree of Knowledge",
+      "Tree-of-Knowledge",
+      "testando"
+    ],
+    "settings": {
+      "Tree of Knowledge": [
+        {
+          "changes": {
+            "icon": "lucide-brain-circuit"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "39, 34, 22"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "204, 183, 138"
+          }
+        }
+      ],
+      "Tree-of-Knowledge": [
+        {
+          "changes": {
+            "icon": "lucide-brain-circuit",
+            "color": "234, 205, 153"
+          }
+        }
+      ],
+      "testando": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "87, 80, 10"
+          }
+        }
+      ],
+      "treeofknowledge": [
+        {
+          "changes": {
+            "icon": "lucide-brain-circuit",
+            "color": "208, 185, 144"
+          }
+        }
+      ],
+      "lifedata": [
+        {
+          "changes": {
+            "icon": "lucide-activity",
+            "color": "112, 205, 174"
+          }
+        }
+      ],
+      "tasksmanager": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle-2",
+            "color": "136, 159, 205"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

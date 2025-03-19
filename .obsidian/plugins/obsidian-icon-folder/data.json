@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaCampfire",
+      "FarImages",
+      "IbPencil",
+      "RaFire",
+      "RaBattery25"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Atlas": "FarCompass",
+  "Calendar": "IbCalendar",
+  "Settigns": "RaRepair",
+  "Atlas/MOCs": "IbDisplayZoom",
+  "Settigns/Templates": "RaMirror",
+  "Atlas/Notes": "FarNoteSticky",
+  "Calendar/Notes": "FarNoteSticky",
+  "Atlas/Utilities": "RaPotion",
+  "Atlas/Utilities/Library": "RaBook",
+  "Atlas/Utilities/Excalidraw": "IbPencil",
+  "Atlas/Utilities/Images": "FarImages",
+  "Dashboard": "IbDashboardOneIsFilled",
+  "Settigns/Backgrounds": "FarImages"
+}

@@ -1,0 +1,49 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "workspaces-plus:Home",
+      "icon": "home",
+      "name": "Workspaces Plus: Load: Home",
+      "mode": "any"
+    },
+    {
+      "id": "global-search:open",
+      "icon": "lucide-search",
+      "name": "Search",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open today's daily note",
+      "Insert template",
+      "Open command palette",
+      "Advanced Tables Toolbar",
+      "Manage workspaces"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

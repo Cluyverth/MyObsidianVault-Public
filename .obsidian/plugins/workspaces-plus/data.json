@@ -1,0 +1,42 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "#fca23b",
+    "textFontFamily": "Fira Code",
+    "interfaceFontFamily": "",
+    "translucency": false,
+    "baseFontSize": 18,
+    "cssTheme": "AnuPpuccin",
+    "enabledCssSnippets": [
+      "custom-background",
+      "custom-rainbow-colors",
+      "dashboard",
+      "dashboard-ReadLineLength",
+      "extended-colorschemes",
+      "floating-search-bar"
+    ],
+    "baseFontSizeAction": true,
+    "nativeMenus": false,
+    "propertiesInDocument": "visible",
+    "showUnsupportedFiles": false,
+    "newFileLocation": "current",
+    "showInlineTitle": true,
+    "alwaysUpdateLinks": true,
+    "focusNewTab": true,
+    "showLineNumber": false,
+    "readableLineLength": false,
+    "foldIndent": true,
+    "strictLineBreaks": false
+  },
+  "activeWorkspaceDesktop": "Home",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": false,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": false
+}
